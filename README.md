@@ -1,3 +1,3 @@
 # comandos-nvim
 
-:e = navegando entre aquivos
+``:e`` = navegando entre aquivos
